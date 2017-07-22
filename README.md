@@ -1,6 +1,12 @@
 # 基于并行BP神经网络的人脸识别系统
 
-此为串行版，并行版请戳：[Github . PAC-P2P/BPNN-Face-Recognition-For-Parallel](https://github.com/PAC-P2P/BPNN-Face-Recognition-For-Parallel)
+此为 **串行版** 的人脸识别系统
+
+并行版请戳：[Github . PAC-P2P/BPNN-Face-Recognition-For-Parallel](https://github.com/PAC-P2P/BPNN-Face-Recognition-For-Parallel)
+
+串行版请戳：[Github . PAC-P2P/BPNN-Face-Recognition](https://github.com/PAC-P2P/BPNN-Face-Recognition)
+
+Qt 版请戳：[Github . PAC-P2P/BPNN-Face-Recognition-For-Qt](https://github.com/PAC-P2P/BPNN-Face-Recognition-For-Qt)
 
 ## 安装依赖
 
